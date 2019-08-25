@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <name>claws4j-core</name>
+  <description>Utilities for reading and writing Claws configuration files.</description>
+  <url>https://github.com/topobyte/claws4j</url>
+</project>

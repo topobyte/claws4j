@@ -1,0 +1,3 @@
+include 'core', 'cli'
+project(':core').name = 'claws4j-core'
+project(':cli').name = 'claws4j-cli'
